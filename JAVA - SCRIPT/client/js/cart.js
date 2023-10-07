@@ -92,7 +92,7 @@ const displayCart = () =>{
 
     modalContainer.append(modalFooter);
 
-    const mercadopago = new MercadoPago("TEST-92241f72-e4f2-4fff-b8a6-8889e319e14c",{
+    const mercadopago = new MercadoPago("",{
         locale: "es-AR", 
     });
     const checkoutButton = modalFooter.querySelector("#checkout-btn");

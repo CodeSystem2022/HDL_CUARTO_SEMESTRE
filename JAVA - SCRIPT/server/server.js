@@ -8,7 +8,7 @@ const path = require("path");
 mercadopago.configure({
 	access_token: "",
 });.........
-.
+..
 
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());

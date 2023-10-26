@@ -7,7 +7,7 @@ const path = require("path");
 // REPLACE WITH YOUR ACCESS TOKEN AVAILABLE IN: https://developers.mercadopago.com/panel
 mercadopago.configure({
 	access_token: "",
-});......
+});.....
 
 
 app.use(express.urlencoded({ extended: false }));

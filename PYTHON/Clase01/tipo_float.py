@@ -18,4 +18,4 @@ print(f'a: {a:.5f}')
 
 a = 4.0 + 5
 print(a)
-print(type(a))
+print(type(a)).

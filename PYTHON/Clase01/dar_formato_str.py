@@ -25,4 +25,4 @@ mensaje = 'Nombre {n} Edad {e} Sueldo {s:.2f}'.format(n=nombre, e=edad, s=sueldo
 
 diccionario = {'nombre': 'Ivan', 'edad': 35, 'sueldo': 8000.00}
 mensaje = 'Nombre {dic[nombre]} Edad {dic[edad]} Sueldo {dic[sueldo]:.2f}'.format(dic=diccionario)
-print(mensaje).
+print(mensaje)..

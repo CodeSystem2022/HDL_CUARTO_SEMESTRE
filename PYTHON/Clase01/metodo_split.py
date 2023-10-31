@@ -7,4 +7,4 @@
 
 cursos_separados = "Java,Python,JavaScript,Node"
 lista_cursos = cursos_separados.split(',', 2)
-print(f"Lista de cursos: {lista_cursos}").
+print(f"Lista de cursos: {lista_cursos}")

@@ -1,0 +1,57 @@
+.btn{
+	border-radius: 3px;
+	display: inline-block;
+	padding: 20px 15px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.3); 
+}
+
+.btn-green{
+	color: white;
+	background-color: #3CC93F;
+}
+.btn-green:hover{
+	background-color: #37B839;	
+}
+.btn-green:active{
+	background-color: #29962A;
+}
+    
+
+#chat-button {
+  
+ 
+    position: fixed;
+      bottom: 20px;
+      right: 20px;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+#chat-box {
+    display: none;
+      
+     
+    position: fixed;
+      bottom: 80px;
+      
+     
+    right: 20px;
+      
+     
+    width: 300px;
+      height: 400px;
+      background-color: white;
+      
+     
+    border: 1px solid #ccc;
+      
+     
+    border-radius: 5px;
+      overflow: hidden;
+    }

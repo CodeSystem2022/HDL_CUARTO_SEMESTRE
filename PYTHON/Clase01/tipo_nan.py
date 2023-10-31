@@ -12,4 +12,4 @@ print(f'Es de tipo NaN (Not a Number)?: {math.isnan(a)}')
 
 # Modulo decimal
 a = Decimal('NaN')
-print(f'Es de tipo NaN (Not a Number)?: {math.isnan(a)}').
+

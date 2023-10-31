@@ -15,5 +15,4 @@ diccionario = {'nombre': 'Juan', 'apellido':'Perez', 'edad':'18'}
 llaves = "-".join(diccionario.keys())
 valores = "-".join(diccionario.values())
 print(f"Llaves: {llaves}, Type:{type(llaves)}")
-print(f"Valores: {valores}, Type:{type(valores)}")
-
+print(f"Valores: {valores}, Type:{type(valores)}").

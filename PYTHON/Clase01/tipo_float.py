@@ -17,5 +17,5 @@ print(f'a: {a:.5f}')
 # Cualquier calculo que incluye un float, todo cambia a float
 
 a = 4.0 + 5
-print(a).
-print(type(a)).
+print(a)
+print(type(a))

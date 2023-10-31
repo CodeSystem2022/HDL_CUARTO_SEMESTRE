@@ -7,7 +7,7 @@ print(f'valor: {valor}, Resultado: {resultado}')
 
 valor = 1
 resultado = bool(valor)
-print(f'valor: {valor}, Resultado: {resultado}')
+print(f'valor: {valor}, Resultado: {resultado}').
 
 # Tipo string -> False '' , True para demas valores
 valor = ''
@@ -41,11 +41,11 @@ print(f'valor de una tupla con elementos: {valor}, Resultado: {resultado}')
 # Diccionario
 valor = {}
 resultado = bool(valor)
-print(f'valor de una diccionario vacio: {valor}, Resultado: {resultado}')
+print(f"Valor diccionario vacio: {valor}, Resultado: {resultado}")
 
-valor = {'Nombre': 'Juan', 'Apellido': 'Perez'}
+valor = {'Nombre':'Santiago', 'Apellido': 'Cascon'}
 resultado = bool(valor)
-print(f'valor de una diccionario con elementos: {valor}, Resultado: {resultado}')
+print(f"Valor diccionario lleno: {valor}, Resultado: {resultado}")
 
 # Sentencias de control con bool
 if 'hola':

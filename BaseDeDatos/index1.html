@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Formulario con Enlace y Chat</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Contacto</h1>
+        <form action="#">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" required></textarea>
+            
+            <button type="submit">Enviar</button>
+        </form>
+        
+        <div class="chat">
+            <h2>Chat en Vivo</h2>
+            <div class="mensaje">
+                <span class="nombre">Usuario 1:</span>
+                <span class="contenido">¡Hola! ¿En qué puedo ayudarte?</span>
+            </div>
+            
+            <div class="mensaje">
+                <span class="nombre">Usuario 2:</span>
+                <span class="contenido">Hola, tengo una pregunta sobre tu producto.</span>
+            </div>
+            
+            <div class="nuevo-mensaje">
+                <input type="text" placeholder="Escribe tu mensaje...">
+                <button>Enviar</button>
+            </div>
+        </div>
+        
+        <div class="enlace">
+            <a href="#">Enlace a otra página</a>
+        </div>
+    </div>
+</body>
+</html>

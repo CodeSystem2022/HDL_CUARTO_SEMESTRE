@@ -7,7 +7,7 @@ print(f'valor: {valor}, Resultado: {resultado}')
 
 valor = 1
 resultado = bool(valor)
-print(f'valor: {valor}, Resultado: {resultado}')
+print(f'valor: {valor}, Resultado: {resultado}').
 
 # Tipo string -> False '' , True para demas valores
 valor = ''

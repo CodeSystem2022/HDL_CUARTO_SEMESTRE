@@ -14,5 +14,5 @@ class MiClase:
         :param param1: Parametro 1
         :param param2: Parametro 2
         :return: Este es el valor del retorno
-        """
+        """.
 

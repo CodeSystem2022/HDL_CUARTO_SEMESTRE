@@ -12,4 +12,4 @@ setInterval(function() {
     }
 }, 1000);
 
-console.log("Segunda instruccion");
+console.log("Segunda instruccion");;

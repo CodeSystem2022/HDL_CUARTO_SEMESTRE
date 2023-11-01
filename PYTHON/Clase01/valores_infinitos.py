@@ -29,4 +29,3 @@ print(f'Es infinito?: {math.isinf(infinito_positivo)}')
 
 infinito_negativo = Decimal('-Infinity')
 print(f'Infinito negativo: {infinito_negativo}')
-print(f'Es infinito?: {math.isinf(infinito_negativo)}')

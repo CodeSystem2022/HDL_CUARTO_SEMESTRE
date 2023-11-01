@@ -1,4 +1,3 @@
-
 class MiClase:
     '''
     Este es un ejemplo de documentacion de esta clase

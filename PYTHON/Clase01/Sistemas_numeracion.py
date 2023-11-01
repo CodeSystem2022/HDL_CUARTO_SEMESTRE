@@ -12,7 +12,7 @@ print(f"a binario: {a}")
 a = 0o12
 print(f"a octal: {a}")
 
-# Sistema haxadecimal
+# Sistema_haxadecimall
 a = 0xA
 print(f"a hexadecimal: {a}")
 

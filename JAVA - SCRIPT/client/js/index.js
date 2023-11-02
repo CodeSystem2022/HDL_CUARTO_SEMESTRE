@@ -27,6 +27,7 @@ productos.forEach((product) =>{
 
                 }
             });
+            
         } else {
             cart.push({
                 id: product.id,

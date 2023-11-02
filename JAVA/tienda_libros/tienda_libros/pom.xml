@@ -39,6 +39,8 @@
 		</dependency>
 	</dependencies>
 
+	#build
+
 	<build>
 		<plugins>
 			<plugin>

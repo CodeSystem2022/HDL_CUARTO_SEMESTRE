@@ -1,5 +1,6 @@
 #Profundizando en los sistemas de numeracion
 
+
 # Sistema decimal
 a = 10
 print(f"a decimal: {a}")

@@ -21,7 +21,6 @@ app.get("/", function () {
 });
 
 app.post("/create_preference", (req, res) => {
-
 	let preference = {
 		items: [
 			{

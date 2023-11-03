@@ -1,4 +1,3 @@
-
 # Dar formato a un string
 
 nombre = 'Franco'

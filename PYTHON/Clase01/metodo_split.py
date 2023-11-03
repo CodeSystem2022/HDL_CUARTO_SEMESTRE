@@ -1,5 +1,4 @@
 # help(str.split)
-
 # cursos = "Java JavaScript Python Node"
 # lista_cursos = cursos.split()
 # print(f"Lista de cursos: {lista_cursos}")

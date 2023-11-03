@@ -15,4 +15,3 @@ class MiClase:
         :param param2: Parametro 2
         :return: Este es el valor del retorno
         """
-

@@ -17,10 +17,8 @@
 .btn-green:active{
 	background-color: #29962A;
 }
-    
 
-#chat-button {
-  
+#chat-button {  
  
     position: fixed;
       bottom: 20px;
